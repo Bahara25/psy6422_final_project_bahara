@@ -1,0 +1,26 @@
+---
+title: 'PSY6422 final self-assessment'
+author: "Bahara Haidari"
+date: " May 2021"
+output: pdf_document
+---
+
+
+# Final Self-assessment for PSY6422
+
+
+## 1. Which topic did I find most useful or interesting? Explain why
+
+I found the RMarkdown topic most useful as it was interesting to see a new way of coding that allows you to continually monitor what the output looks like in a document. Being able to knit after making changes in a RMarkdown file and seeing what those changes look like in a document was really useful. 
+
+## 2. Which topic did I find least useful, interesting or most difficult? Explain why
+
+I found the ssh and the command line topic most difficult. I couldn't get my head around how it worked and the lecture was difficult to follow along with. It seemed like a whole new world in comparison to R. 
+
+## 3. What topics do I want to learn more about in the future? Explain why
+
+I would like to learn more about gganimate and other packages that could be used to animate plots. I've only just hit the surface with animating plots for my final project, so it would be interesting to see how expansive the topic is and what more I could do. 
+
+## 4. Please share one thing you have read and enjoyed or found useful on the topic of data management and/or visualisation
+
+On the topic of visualisations, I found it useful learning the basic structure of a ggplot and understanding how to change the layout, design and text of the visualisations. I also learned that there are many resources on the internet that are available to help with the errors you may have or to provide explanations and examples to achieve certain outcomes with your code. For my project, I found stack overflow to be very useful. 
