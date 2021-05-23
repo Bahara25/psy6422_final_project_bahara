@@ -1,6 +1,7 @@
 # psy6422_final_project_bahara
 
 What is the project about?
+
 The project is my final assessment for the psy6422 module. 
 The project looks at gaming and loneliness before and during the COVID-19 pandemic. 
 
